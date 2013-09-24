@@ -20,4 +20,11 @@
 		<nature>org.eclipse.jdt.core.javanature</nature>
 		<nature>org.eclipse.m2e.core.maven2Nature</nature>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>src/main/resources/docs/hw2-pqichen-report.pdf</name>
+			<type>1</type>
+			<location>/media/Pqc/cmu/13 fall/Intelligent Information System/hw/hw2/hw2-pqichen-report.pdf</location>
+		</link>
+	</linkedResources>
 </projectDescription>
